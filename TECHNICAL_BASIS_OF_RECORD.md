@@ -53,7 +53,7 @@ The following documents are **deprecated** and must not be cited in public mater
 |-----------|-------|---------|
 | GPU model | NVIDIA H200 SXM5 | Confirmed |
 | GPU memory | 141 GB HBM3e | Confirmed |
-| Quantity | 4 units | Acquired |
+| Quantity | **4× units** | Acquired · deploying Phase 1 |
 | Physical status | **Acquired — deployment in progress** | Use: "DEPLOYING" |
 | Certification target | NVIDIA DGX-Ready | In process |
 
